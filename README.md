@@ -76,7 +76,7 @@ Se algo estiver errado → ❌ acesso negado.
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/login-hacker-neon.git
+   git clone (LINK DO PROJETO)
 Abra o arquivo index.html no navegador.
 
 Digite um usuário e uma senha válida.
